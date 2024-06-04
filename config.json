@@ -1,0 +1,10 @@
+{
+    "symbols": [
+        {
+          "server": "https://msdl.microsoft.com/download/symbols",
+          "cache": ".\\PDB_Cache",
+          "force_create_cache_dir": true
+        }
+    ]
+}
+

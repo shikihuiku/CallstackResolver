@@ -1,0 +1,20 @@
+This is a sample of a calls tack text.
+You can write anything before the following line.
+--- paths
+C:\WINDOWS\SYSTEM32\ntdll.dll
+C:\WINDOWS\System32\ucrtbase.dll
+C:\WINDOWS\System32\KERNEL32.DLL
+C:\Windows\System32\MrmCoreR.dll
+
+--- callstacks
+MrmCoreR.dll + 0x32298
+MrmCoreR.dll + 0x21b0d
+MrmCoreR.dll +0x6a17
+MrmCoreR.dll + 0x379af
+MrmCoreR.dll +0x2327a
+MrmCoreR.dll + 0x145f7
+MrmCoreR.dll + 0x14b86
+MrmCoreR.dll + 0x171c3
+MrmCoreR.dll + 0x17e44
+MrmCoreR.dll + 0x17f79
+MrmCoreR.dll + 0xb2dbf
